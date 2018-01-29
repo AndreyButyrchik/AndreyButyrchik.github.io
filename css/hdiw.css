@@ -1,0 +1,12 @@
+.howDoesItWork{
+  background-image: url(img/hdiwbg.png);
+  -webkit-background-size: cover ;
+  background-size: cover;
+  padding-bottom: 5rem;
+}
+.hdiwFoto{
+  width: 100%;
+}
+.hdiwSpace{
+  padding-top: 4rem;
+}
